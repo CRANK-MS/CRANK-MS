@@ -5,7 +5,7 @@ setuptools.setup(
     version='0.1',
     author='Chonghua Xue',
     author_email='cxue2@bu.edu',
-    # url='https://github.com/vkola-lab/python_speech_features_cuda',
+    url='https://github.com/vkola-lab/python_speech_features_cuda',
     # description='Re-implementation of Python Speech Features Extraction on CUDA.',
     packages=setuptools.find_packages(),
     # classifiers=[
