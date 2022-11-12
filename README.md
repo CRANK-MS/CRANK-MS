@@ -11,7 +11,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/CRANK-MS/CRANK-MS">
     <img src="logo.png" alt="Logo">
