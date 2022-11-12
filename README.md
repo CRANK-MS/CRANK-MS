@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CRANK-MS/CRANK-MS">
-    <img src="logo.png" alt="Logo" height="160">
+    <img src="logo.png" alt="Logo">
   </a>
   <br />
   <br />
