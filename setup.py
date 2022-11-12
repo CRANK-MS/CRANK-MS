@@ -6,8 +6,9 @@ setuptools.setup(
     author = 'Chonghua Xue',
     author_email = 'cxue2@bu.edu',
     url = 'https://github.com/CRANK-MS/CRANK-MS',
-    # description='Re-implementation of Python Speech Features Extraction on CUDA.',
-    packages=setuptools.find_packages(),
+    description = 'Re-implementation of Python Speech Features Extraction on CUDA.',
+    packages = setuptools.find_packages(),
+    python_requires = '>=3.7',
     # classifiers=[
     #     'Environment :: GPU :: NVIDIA CUDA',
     #     'Operating System :: OS Independent',
