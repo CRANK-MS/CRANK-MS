@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name = 'crank-ms',
-    version = '0.1',
+    version = '0.0.1',
     author = 'Chonghua Xue',
     author_email = 'cxue2@bu.edu',
     url = 'https://github.com/CRANK-MS/CRANK-MS',
