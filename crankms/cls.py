@@ -140,8 +140,7 @@ class MLPClassifier(BaseEstimator):
             X, y = check_X_y(X, y)
 
             # y shall always be 0 or 1
-            labels = unique_labels(y)
-            for label in labels:
+            for label in unique_labels(y):
                 assert label in (0, 1), 'Label must be 0 or 1. {} is detected.'.format(label)
 
         return X, y
