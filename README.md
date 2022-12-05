@@ -19,7 +19,8 @@
   <br />
 </div>
 
-
+## Classification and Ranking Analysis using Neural network generates Knowledge using Mass Spectrometry (CRANK-MS)
+This work is published as a ChemRxiV preprint ()
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -42,21 +43,20 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#authors">Authors</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Introduction -->
+## Introduction
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This repository contains the implementation of CRANK-MS, an interpretable neural network framework that can be applied to whole mass spectrometry-based datasets for binary classification. CRANK-MS has several built-in features including: (i) integrated model parameters that allow whole mass spectrometry-based datasets to be analysed (e.g. liquid chromatography-mass spectrometry and gas chromatography-mass spectrometry in untargeted metabolomics studies); (ii) an embedded interpretative function called SHapley Additive exPlanation or SHAP which allows key chemical features that drive accurate model prediction to be retrospectively 'mined'; and (iii) benchmark testing with five alternative machine learning models (i.e. Extreme Gradient Boosting, Random Forest, Logistic Regression, Support Vector Machine, and Linear Discriminant Analysis). 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+As an example, we demonstrated that CRANK-MS can be used for the binary classification of Parkinson's disease versus healthy control using blood plasma and skin sebum metablomics data. Using CRANK-MS, we reported the highest diagnostic performance to date for Parkinson's disease. In addition, using the embedded interpretative function, key PD-specific biomarkers that drive accurate PD prediction were identified. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Please refer to our paper for more details
 
 
 
@@ -97,29 +97,18 @@ This is an example of how to list things you need to use the software and how to
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Authors -->
+## Authors
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+* J. Diana Zhang | University of New South Wales & Boston University | diana.zhang1@student.unsw.edu.au
+* Chonghua Xue | Boston University | cxue2@bu.edu
+* Vijaya Kolachalama | Boston University | vkola@bu.edu
+* William A. Donald | University of New South Wales | w.donald@unsw.edu.au
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
