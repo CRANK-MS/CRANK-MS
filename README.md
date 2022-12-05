@@ -27,9 +27,8 @@ This work is published as a ChemRxiV preprint ()
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Introduction</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -39,9 +38,6 @@ This work is published as a ChemRxiV preprint ()
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
   </ol>
@@ -54,10 +50,9 @@ This work is published as a ChemRxiV preprint ()
 
 This repository contains the implementation of CRANK-MS, an interpretable neural network framework that can be applied to whole mass spectrometry-based datasets for binary classification. CRANK-MS has several built-in features including: (i) integrated model parameters that allow whole mass spectrometry-based datasets to be analysed (e.g. liquid chromatography-mass spectrometry and gas chromatography-mass spectrometry in untargeted metabolomics studies); (ii) an embedded interpretative function called SHapley Additive exPlanation or SHAP which allows key chemical features that drive accurate model prediction to be retrospectively 'mined'; and (iii) benchmark testing with five alternative machine learning models (i.e. Extreme Gradient Boosting, Random Forest, Logistic Regression, Support Vector Machine, and Linear Discriminant Analysis). 
 
-As an example, we demonstrated that CRANK-MS can be used for the binary classification of Parkinson's disease versus healthy control using blood plasma and skin sebum metablomics data. Using CRANK-MS, we reported the highest diagnostic performance to date for Parkinson's disease. In addition, using the embedded interpretative function, key PD-specific biomarkers that drive accurate PD prediction were identified. 
+<img src="summary.png">
 
-Please refer to our paper for more details
-
+As an example, we demonstrated that CRANK-MS can be used for the binary classification of Parkinson's disease versus healthy control using blood plasma and skin sebum metablomics data. Using CRANK-MS, we reported the highest diagnostic performance to date for Parkinson's disease. In addition, using the embedded interpretative function, key PD-specific biomarkers that drive accurate PD prediction were identified. Please see our preprint for more details
 
 
 <!-- GETTING STARTED -->
