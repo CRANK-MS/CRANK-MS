@@ -20,21 +20,20 @@
 </div>
 
 ## Classification and Ranking Analysis using Neural network generates Knowledge using Mass Spectrometry (CRANK-MS)
-This work is published as a ChemRxiV preprint ()
+This work is published as a ChemRxiv preprint ()
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Introduction</a>
+      <a href="#Introduction">Introduction</a></li>
       <ul>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -56,34 +55,13 @@ As an example, we demonstrated that CRANK-MS can be used for the binary classifi
 
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
+## Installation
+To install:
+ ```sh
+   pip install crank-ms
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
