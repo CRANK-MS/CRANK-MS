@@ -19,8 +19,8 @@
   <br />
 </div>
 
-## Classification and Ranking Analysis using Neural network generates Knowledge using Mass Spectrometry (CRANK-MS)
-This work is published as a ChemRxiv preprint ()
+## Classification and Ranking Analysis using Neural network generates Knowledge from Mass Spectrometry (CRANK-MS)
+A preprint manuscript describing CRANK-MS is available at ChemRxiv ()
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -51,7 +51,7 @@ This repository contains the implementation of CRANK-MS, an interpretable neural
 
 <img src="summary.png">
 
-As an example, we demonstrated that CRANK-MS can be used for the binary classification of Parkinson's disease versus healthy control using blood plasma and skin sebum metablomics data. Using CRANK-MS, we reported the highest diagnostic performance to date for Parkinson's disease. In addition, using the embedded interpretative function, key PD-specific biomarkers that drive accurate PD prediction were identified. Please see our preprint for more details
+As an example, we demonstrated that CRANK-MS can be used for the binary classification of Parkinson's disease versus healthy control using blood plasma and skin sebum metablomics data. Using CRANK-MS, we reported the highest diagnostic performance to date for Parkinson's disease. In addition, using the embedded interpretative function, key PD-specific biomarkers that drive accurate PD prediction were identified. Please see our preprint for more details.
 
 
 <!-- GETTING STARTED -->
