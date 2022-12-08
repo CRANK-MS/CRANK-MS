@@ -20,7 +20,7 @@
 </div>
 
 ## Classification and Ranking Analysis using Neural network generates Knowledge from Mass Spectrometry (CRANK-MS)
-A preprint manuscript describing CRANK-MS is available at ChemRxiv ()
+A preprint manuscript describing CRANK-MS is available at ChemRxiv (https://doi.org/10.26434/chemrxiv-2022-r7gjb)
 
 <!-- TABLE OF CONTENTS -->
 <details>
