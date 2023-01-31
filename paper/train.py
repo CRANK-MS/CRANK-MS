@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from model import MLP
+from crankms import MLPClassifier as MLP
 from xgboost import XGBClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
