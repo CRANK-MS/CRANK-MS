@@ -20,7 +20,7 @@
 </div>
 
 ## Classification and Ranking Analysis using Neural network generates Knowledge from Mass Spectrometry (CRANK-MS)
-This work is published in *ACS Central Science* ([https://doi.org/10.26434/chemrxiv-2022-r7gjb](https://doi.org/10.1021/acscentsci.2c01468))
+This work is published in *ACS Central Science* (https://doi.org/10.1021/acscentsci.2c01468)
 
 <!-- TABLE OF CONTENTS -->
 <details>
