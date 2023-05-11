@@ -20,7 +20,7 @@
 </div>
 
 ## Classification and Ranking Analysis using Neural network generates Knowledge from Mass Spectrometry (CRANK-MS)
-A preprint manuscript describing CRANK-MS is available at ChemRxiv (https://doi.org/10.26434/chemrxiv-2022-r7gjb)
+This work is published in *ACS Central Science* ([https://doi.org/10.26434/chemrxiv-2022-r7gjb](https://doi.org/10.1021/acscentsci.2c01468))
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -80,7 +80,7 @@ Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more informati
 
 * J. Diana Zhang | University of New South Wales & Boston University | diana.zhang1@student.unsw.edu.au
 * Chonghua Xue | Boston University | cxue2@bu.edu
-* Vijaya Kolachalama | Boston University | vkola@bu.edu
+* Vijaya B. Kolachalama | Boston University | vkola@bu.edu
 * William A. Donald | University of New South Wales | w.donald@unsw.edu.au
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
