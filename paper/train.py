@@ -22,7 +22,7 @@ def train(
     # initialize models
     if model_name == 'mlp':
         model = MLP(
-            dense_dims = (32,),
+            hidden_dims = (32,),
             num_epochs = 64,
             batch_size = 16,
             lambda_l1 = 0.0011697870951761014,
