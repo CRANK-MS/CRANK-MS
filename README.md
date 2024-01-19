@@ -59,7 +59,7 @@ As an example, we demonstrated that CRANK-MS can be used for the binary classifi
 ## Installation
 To install:
  ```sh
-   pip install crank-ms
+   pip install git+https://github.com/CRANK-MS/CRANK-MS.git
    ```
 
 
