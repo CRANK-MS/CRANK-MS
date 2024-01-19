@@ -49,7 +49,7 @@ def train(
             criterion='entropy',
             n_estimators = 500,
             max_depth = None,
-            max_features = 'auto',
+            # max_features = 'auto',
             min_samples_split = 5,
             random_state = seed
         )
