@@ -19,6 +19,6 @@ setuptools.setup(
         'numpy',
         'torch',
         'tqdm',
-        'sklearn',
+        'scikit-learn',
     ],
 )
